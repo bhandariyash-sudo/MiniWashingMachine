@@ -4,9 +4,8 @@ This project is a small-scale simulation of a washing machine built using an ATm
 
 The system starts when the door is closed and the Start button is pressed. Users can choose hot, warm, or cold water with switches, and each stage of the cycle is shown with LEDs.
 
-**What It Does
-**
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What it Does
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Waits for the door to close and the Start button to be pressed
 
 Fills the tank with water based on the selected temperature
@@ -19,8 +18,7 @@ Spins at high speed to remove water
 
 Lights a “Done” LED when the cycle finishes
 
-**Hardware Used
-**
+Hardware Used
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ATmega2560 microcontroller
 
@@ -34,8 +32,7 @@ LEDs – to show wash, spin, and done stages
 
 Valves – for hot, cold, and drain water control
 
-**Skills Practiced
-**
+Skills Practiced
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Setting up I/O ports
 
